@@ -38,10 +38,12 @@
 
 ## 📂 Licensing
 
-This software is **Proprietary** and **Closed Source**. It is available under a dual-license model:
+This software is **Proprietary** and **Closed Source**. It is not available for public use or evaluation.
 
-1.  **Community / Evaluation:** Free for personal testing and non-commercial evaluation. See [EULA_STANDARD.md](EULA_STANDARD.md).
-2.  **Enterprise / Dealership:** Requires a paid license for commercial use in a business environment. See [EULA_ENTERPRISE.md](EULA_ENTERPRISE.md).
+* **Commercial / Enterprise Use:** Use of this software in any business environment (e.g., Dealerships, Repair Shops) requires a paid commercial license and a valid license key.
+* **Strictly Prohibited:** No free evaluation, personal use, or reverse engineering is permitted.
+
+For licensing inquiries or enterprise deployment, please refer to: [EULA_ENTERPRISE.md](EULA_ENTERPRISE.md).
 
 ## 🔒 Security & Privacy
 
